@@ -15,7 +15,7 @@ Ensure you have the following tools installed:
 ## Usage
 
 ```bash
-./recon.sh <URL>
+./web_enum.sh <URL>
 ```
 
 Replace `<URL>` with the target domain.
